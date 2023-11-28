@@ -35,6 +35,12 @@ public class Book {
         return year;
     }
 
+    public void setYear(int year){
+        this.year = year;
+    }
+
+
+
     //endregion
 
     //region Поля
@@ -52,7 +58,8 @@ public class Book {
     /**
      * Год издания
      */
-    private final int year;
+    private int year;
+
 
     //endregion
 

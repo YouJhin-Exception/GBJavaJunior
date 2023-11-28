@@ -21,6 +21,10 @@ public class LibraryV2 {
         System.out.println("Лев Толстой: " + authorBooks);
 
         Book book2 = authorBooks.get(0);
+        book2.setYear(2010);
+
+        System.out.println(book1);
+        System.out.println(book2);
         System.out.println(book1.equals(book2));
 
         // Поиск книг, изданных после 1866
