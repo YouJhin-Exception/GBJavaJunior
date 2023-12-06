@@ -13,7 +13,8 @@ lesson1/target/
 *.ipr
 /.idea/*
 lesson1/.idea/*
-
+lesson2/target*
+out*
 
 ### Eclipse ###
 .apt_generated
