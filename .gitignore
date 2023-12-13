@@ -15,6 +15,7 @@ lesson1/target/
 lesson1/.idea/*
 lesson2/target*
 out*
+lessons/target*
 
 ### Eclipse ###
 .apt_generated
